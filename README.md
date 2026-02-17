@@ -185,11 +185,11 @@ FastAPI · RESTful APIs · Apache Kafka · RabbitMQ · AWS Step Functions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raghulvj01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=raghulvj01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&rank_icon=github" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghulvj01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghulvj01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=8" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=raghulvj01&theme=tokyonight&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" height="165"/>
+<img src="https://streak-stats.demolab.com?user=raghulvj01&theme=tokyonight&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=c9d1d9" height="165"/>
 
 </div>
 
