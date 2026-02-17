@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Raghul%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%2F%20Platform%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Kubernetes+%7C+Multi-Cloud+%7C+CI%2FCD+%7C+Observability;AWS+%7C+Azure+%7C+GCP+%7C+Oracle+Cloud;40%25+Faster+Deployments+%7C+30%25+Cost+Reduction;99.5%25+Uptime+for+High-Traffic+Systems;%F0%9F%8F%85+Nutanix+Certified+Professional+NCP-MCI+6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Kubernetes+%7C+Multi-Cloud+%7C+CI%2FCD+%7C+Observability;AWS+%7C+GCP+%7C+Oracle+Cloud;40%25+Faster+Deployments+%7C+30%25+Cost+Reduction;99.5%25+Uptime+for+High-Traffic+Systems;%F0%9F%8F%85+Nutanix+Certified+Professional+NCP-MCI+6" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-DevOps / Platform Engineer building and operating **production CI/CD and cloud infrastructure** across AWS, Azure, GCP, and Oracle Cloud. I specialize in Kubernetes (Nutanix NKP, EKS, GKE, OKE), GitOps (Argo CD), IaC (Terraform, AWS CDK), and observability (Datadog, Prometheus/Grafana, OpenTelemetry).
+DevOps / Platform Engineer building and operating **production CI/CD and cloud infrastructure** across AWS, GCP, and Oracle Cloud. I specialize in Kubernetes (Nutanix NKP, EKS, GKE, OKE), GitOps (Argo CD), IaC (Terraform, AWS CDK), and observability (Datadog, Prometheus/Grafana, OpenTelemetry).
 
 **Delivered measurable impact:**
 
@@ -46,7 +46,7 @@ DevOps / Platform Engineer building and operating **production CI/CD and cloud i
       <b>The Joy of Computing</b><br/>
       <b>Using Python</b>
       <br/><br/>
-      <sub>IIT- MADRAS NPTEL certification<br/>in Python programming (2022)</sub>
+      <sub>IIT-backed NPTEL certification<br/>in Python programming (2022)</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/NPTEL-PROGRAMMING%20IN%20JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a" height="36"/>
@@ -54,7 +54,7 @@ DevOps / Platform Engineer building and operating **production CI/CD and cloud i
       <b>Programming in Java</b><br/>
       <b>&nbsp;</b>
       <br/><br/>
-      <sub>IIT- MADRAS NPTEL certification<br/>in Java programming (2021)</sub>
+      <sub>IIT-backed NPTEL certification<br/>in Java programming (2021)</sub>
     </td>
   </tr>
 </table>
@@ -70,7 +70,6 @@ DevOps / Platform Engineer building and operating **production CI/CD and cloud i
 <br/>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
@@ -100,7 +99,7 @@ Nutanix NKP · AWS EKS · GCP GKE · Oracle OKE · Kustomize · HPA/VPA
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-AWS CDK · CloudFormation · Pulumi · AWS CodePipeline · Azure Pipelines · Argo Workflows
+AWS CDK · CloudFormation · Pulumi · AWS CodePipeline · Argo Workflows
 </details>
 
 <details open>
