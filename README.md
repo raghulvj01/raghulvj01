@@ -46,7 +46,7 @@ DevOps / Platform Engineer building and operating **production CI/CD and cloud i
       <b>The Joy of Computing</b><br/>
       <b>Using Python</b>
       <br/><br/>
-      <sub>IIT-backed NPTEL certification<br/>in Python programming (2022)</sub>
+      <sub>IIT- MADRAS NPTEL certification<br/>in Python programming (2022)</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/NPTEL-PROGRAMMING%20IN%20JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a" height="36"/>
@@ -54,7 +54,7 @@ DevOps / Platform Engineer building and operating **production CI/CD and cloud i
       <b>Programming in Java</b><br/>
       <b>&nbsp;</b>
       <br/><br/>
-      <sub>IIT-backed NPTEL certification<br/>in Java programming (2021)</sub>
+      <sub>IIT- MADRAS NPTEL certification<br/>in Java programming (2021)</sub>
     </td>
   </tr>
 </table>
