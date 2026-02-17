@@ -26,6 +26,43 @@ DevOps / Platform Engineer building and operating **production CI/CD and cloud i
 
 ---
 
+## 🏅 Certifications
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/NUTANIX-NCP--MCI%206-024DA1?style=for-the-badge&logo=nutanix&logoColor=white&labelColor=000000" height="36"/>
+      <br/><br/>
+      <b>Nutanix Certified Professional</b><br/>
+      <b>Multicloud Infrastructure 6</b>
+      <br/><br/>
+      <sub>Expertise in Nutanix HCI, NKP,<br/>AHV, Prism & enterprise multicloud ops</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/NPTEL-JOY%20OF%20COMPUTING-FF6B00?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" height="36"/>
+      <br/><br/>
+      <b>The Joy of Computing</b><br/>
+      <b>Using Python</b>
+      <br/><br/>
+      <sub>IIT-backed NPTEL certification<br/>in Python programming (2022)</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/NPTEL-PROGRAMMING%20IN%20JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a" height="36"/>
+      <br/><br/>
+      <b>Programming in Java</b><br/>
+      <b>&nbsp;</b>
+      <br/><br/>
+      <sub>IIT-backed NPTEL certification<br/>in Java programming (2021)</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <details open>
@@ -138,47 +175,10 @@ FastAPI · RESTful APIs · Apache Kafka · RabbitMQ · AWS Step Functions
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 **🎓 MBA, Information Technology** — Parul University Online | CGPA: 9.86  
 **🎓 B.Tech, Information Technology** — Coimbatore Institute of Engineering and Technology | CGPA: 9.01
-
----
-
-### 🏅 Certifications
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/NUTANIX-NCP--MCI%206-024DA1?style=for-the-badge&logo=nutanix&logoColor=white&labelColor=000000" height="36"/>
-      <br/><br/>
-      <b>Nutanix Certified Professional</b><br/>
-      <b>Multicloud Infrastructure 6</b>
-      <br/><br/>
-      <sub>Expertise in Nutanix HCI, NKP,<br/>AHV, Prism & enterprise multicloud ops</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/NPTEL-JOY%20OF%20COMPUTING-FF6B00?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" height="36"/>
-      <br/><br/>
-      <b>The Joy of Computing</b><br/>
-      <b>Using Python</b>
-      <br/><br/>
-      <sub>IIT-backed NPTEL certification<br/>in Python programming (2022)</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/NPTEL-PROGRAMMING%20IN%20JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a" height="36"/>
-      <br/><br/>
-      <b>Programming in Java</b><br/>
-      <b>&nbsp;</b>
-      <br/><br/>
-      <sub>IIT-backed NPTEL certification<br/>in Java programming (2021)</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
