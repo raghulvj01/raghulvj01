@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Raghul%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%2F%20Platform%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Kubernetes+%7C+Multi-Cloud+%7C+CI%2FCD+%7C+Observability;AWS+%7C+Azure+%7C+GCP+%7C+Oracle+Cloud;40%25+Faster+Deployments+%7C+30%25+Cost+Reduction;99.5%25+Uptime+for+High-Traffic+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Kubernetes+%7C+Multi-Cloud+%7C+CI%2FCD+%7C+Observability;AWS+%7C+Azure+%7C+GCP+%7C+Oracle+Cloud;40%25+Faster+Deployments+%7C+30%25+Cost+Reduction;99.5%25+Uptime+for+High-Traffic+Systems;%F0%9F%8F%85+Nutanix+Certified+Professional+NCP-MCI+6" alt="Typing SVG" />
 
 <br/>
 
@@ -143,10 +143,42 @@ FastAPI · RESTful APIs · Apache Kafka · RabbitMQ · AWS Step Functions
 **🎓 MBA, Information Technology** — Parul University Online | CGPA: 9.86  
 **🎓 B.Tech, Information Technology** — Coimbatore Institute of Engineering and Technology | CGPA: 9.01
 
-**📜 Certifications:**
-- Nutanix Certified Professional – Multicloud Infrastructure 6
-- The Joy of Computing Using Python — NPTEL (2022)
-- Programming in Java — NPTEL (2021)
+---
+
+### 🏅 Certifications
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/NUTANIX-NCP--MCI%206-024DA1?style=for-the-badge&logo=nutanix&logoColor=white&labelColor=000000" height="36"/>
+      <br/><br/>
+      <b>Nutanix Certified Professional</b><br/>
+      <b>Multicloud Infrastructure 6</b>
+      <br/><br/>
+      <sub>Expertise in Nutanix HCI, NKP,<br/>AHV, Prism & enterprise multicloud ops</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/NPTEL-JOY%20OF%20COMPUTING-FF6B00?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" height="36"/>
+      <br/><br/>
+      <b>The Joy of Computing</b><br/>
+      <b>Using Python</b>
+      <br/><br/>
+      <sub>IIT-backed NPTEL certification<br/>in Python programming (2022)</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/NPTEL-PROGRAMMING%20IN%20JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a" height="36"/>
+      <br/><br/>
+      <b>Programming in Java</b><br/>
+      <b>&nbsp;</b>
+      <br/><br/>
+      <sub>IIT-backed NPTEL certification<br/>in Java programming (2021)</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
