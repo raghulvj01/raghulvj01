@@ -59,7 +59,7 @@ DevOps / Platform Engineer building and operating **production CI/CD and cloud i
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/ORACLE-OCI%202025%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a1a" height="36"/>
+      <img src="https://img.shields.io/badge/ORACLE-OCI%202025%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=000000" height="36"/>
       <br/><br/>
       <b>OCI 2025 Certified</b><br/>
       <b>Foundations Associate</b>
@@ -67,7 +67,7 @@ DevOps / Platform Engineer building and operating **production CI/CD and cloud i
       <sub>Oracle Cloud Infrastructure fundamentals,<br/>core services & architecture (Feb 2026)</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/ORACLE-OCI%202025%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a1a" height="36"/>
+      <img src="https://img.shields.io/badge/ORACLE-OCI%202025%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=000000" height="36"/>
       <br/><br/>
       <b>OCI 2025 Certified</b><br/>
       <b>AI Foundations Associate</b>
