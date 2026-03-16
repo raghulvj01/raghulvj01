@@ -57,6 +57,27 @@ DevOps / Platform Engineer building and operating **production CI/CD and cloud i
       <sub>IIT-backed NPTEL certification<br/>in Java programming (2021)</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/ORACLE-OCI%202025%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a1a" height="36"/>
+      <br/><br/>
+      <b>OCI 2025 Certified</b><br/>
+      <b>Foundations Associate</b>
+      <br/><br/>
+      <sub>Oracle Cloud Infrastructure fundamentals,<br/>core services & architecture (Feb 2026)</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/ORACLE-OCI%202025%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a1a" height="36"/>
+      <br/><br/>
+      <b>OCI 2025 Certified</b><br/>
+      <b>AI Foundations Associate</b>
+      <br/><br/>
+      <sub>Oracle Cloud AI & GenAI services,<br/>ML concepts & OCI AI portfolio (Feb 2026)</sub>
+    </td>
+    <td align="center" width="33%">
+      &nbsp;
+    </td>
+  </tr>
 </table>
 
 </div>
